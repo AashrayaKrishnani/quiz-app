@@ -248,7 +248,7 @@ class QuizAppState extends State<QuizApp> {
   int _questionNum = 0;
   int _score = 0;
   Color _appBarColor = Colors.blue;
-  String _appBarText = 'Welcome to the Quizz! 🥳';
+  String _appBarText = 'Welcome to the Quizz! 😊';
   String _button1 = "**";
   MainAxisAlignment _colAlignment = MainAxisAlignment.start;
   bool firstTime = true;
