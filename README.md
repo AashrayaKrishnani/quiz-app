@@ -1,14 +1,14 @@
 # QuizApp
-A quiz app with **Decent questions**, **Minimalistic UI** and a dash of **Tangy Randomness** ;D 
+* A quiz app with **Decent questions**, **Minimalistic UI** and a dash of **Tangy Randomness** ;D 
 
 # Foreword
-This is my **First Flutter project** that I made for my **CS50x Final Project**. Spending just about **12hrs** and being able to make a **full-fledged** app that works on **Android** and **IOS** is a possibility that I still stand **astonished** by, all thanks to the **immense potential** of **Flutter** that **empowered** me to do so!
+* This is my **First Flutter project** that I made for my **CS50x Final Project**. Spending just about **12hrs** and being able to make a **full-fledged** app that works on **Android** and **IOS** is a possibility that I still stand **astonished** by, all thanks to the **immense potential** of **Flutter** that **empowered** me to do so!
 
-The app in itself is **Faily Simple**, yet it has **an element of randomness** to it that **intrigues** the user, giving them **something new** to always **look forward to** **;D**
+* The app in itself is **Faily Simple**, yet it has **an element of randomness** to it that **intrigues** the user, giving them **something new** to always **look forward to** **;D**
 
 # About The App
 
-The **Main files** in **quiz_app/lib** are as follows:
+* The **Main files** in **quiz_app/lib** are as follows:
 
 ## main.dart
 * The **main executable** file that contains the head **QuizApp** class, a **stateful widget**, responsible for **rendering** the main **UI** for the **app**.
